@@ -2,9 +2,7 @@
 
 This gitlab contains all the code and data for analysis of Quantum Job Market. This Read me is to edit it's not complete now. 
 
-First notice that an non-technical documentation of the project is available here : https://docs.google.com/document/d/1_-qUXYqLTFjUDVwBcQJWZ0RL79xxmJkXt8ohUnsWMRU/edit. 
-
-![documentation](https://gitlab.com/scienceathome/datasci/quantum-jobs/-/blob/9fc3c4e1f228fb03a755ea6b92b5a264f023c886/data/lix_scrapper/useful/documentation.png)
+First notice that an non-technical documentation of the project is available here : ####
 
 Bellow is an overview of the project, note that most python file and notebook are properly commented so newcommers should be able to keep on with the logic.
 
