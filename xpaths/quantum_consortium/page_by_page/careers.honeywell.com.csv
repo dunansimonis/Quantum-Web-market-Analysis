@@ -1,0 +1,8 @@
+label,xpath
+cookies,"//*[@id=""onetrust-accept-btn-handler""]"
+title,/html/body/div[3]/div[2]/div/div[1]/div[2]/section[1]/div/div/div/div[1]/h1
+location,/html/body/div[3]/div/div/div[1]/div[2]/section[1]/div/div/div/div[1]/section/div/div[1]/span[1]
+company,Quantinuum
+position,/html/body/div[3]/div/div/div[1]/div[2]/section[1]/div/div/div/div[1]/h1
+type,
+description,/html/body/div[3]/div/div/div[2]/div/div/div[1]/section[1]/div/section

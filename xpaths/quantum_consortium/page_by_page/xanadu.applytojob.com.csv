@@ -1,0 +1,7 @@
+label,xpath
+title,/html/body/main/div[2]/div/h1
+location,/html/body/main/div[2]/div/div[1]/div[1]
+company,Xanadu
+position,/html/body/main/div[2]/div/h1
+type,"//*[@id=""resumator-job-employment""]"
+description,"//*[@id=""job-description""]"

@@ -1,0 +1,15 @@
+label,xpath
+first_block,/html/body/div[7]/div/div[11]/div/div[2]/div[2]/div/div/div[1]/div/block-component
+first_block,/html/body/div[7]/div/div[11]/div[1]/div[2]/div/div/div[1]/div/div[1]/block-component
+first_block,/html/body/div[7]/div/div[11]/div/div[2]/div[2]/div/div/div[1]/div/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div[2]/div/div[1]/div/span
+first_block,//*[@id="rso"]/div[1]/div/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div[2]/div/div[1]/div/span
+first_block,/html/body/div[7]/div/div[11]/div/div[2]/div[2]/div/div/div[1]/div/block-component
+bold_text,/html/body/div[7]/div/div[11]/div[1]/div[2]/div/div/div[1]/div/div[1]/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div/div/div[2]/div/span/span/b
+bold_text,/html/body/div[7]/div/div[11]/div/div[2]/div[2]/div/div/div[1]/div/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div[2]/div/div[1]/div/span/span/b
+bold_text,//*[@id="rso"]/div[1]/div/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div[2]/div/div[1]/div/span/span/b
+bold_text,/html/body/div[7]/div/div[11]/div/div[2]/div[2]/div/div/div[1]/div/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div/div/div[1]/div/span/span/b
+bold_text,//*[@id="rso"]/div[1]/div/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div/div/div[2]/div/span/span/b
+bold_text,/html/body/div[7]/div/div[11]/div/div[2]/div[2]/div/div/div[1]/div/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div/div/div[2]/div/span/span/b
+big_text,/html/body/div[7]/div/div[11]/div[1]/div[2]/div/div/div[1]/div/div[1]/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div/div/div[1]
+big_text,/html/body/div[7]/div/div[11]/div/div[2]/div[2]/div/div/div[1]/div/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div/div/div[1]
+big_text,//*[@id="rso"]/div[1]/div/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div/div/div[1]

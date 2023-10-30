@@ -1,0 +1,7 @@
+label,xpath
+title,/html/body/main/header/div/div[1]/h1/span
+location,/html/body/main/header/div/div[1]/div/dl[1]/dd
+company,Riverlane
+position,/html/body/main/header/div/div[1]/h1/span
+type,
+description,/html/body/main/section

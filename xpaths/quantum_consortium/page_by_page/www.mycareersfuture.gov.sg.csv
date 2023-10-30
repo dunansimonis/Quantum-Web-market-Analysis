@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""job_title""]"
+location,"//*[@id=""job-details""]/div[1]/div[3]/div/section[1]/p"
+company,"//*[@id=""job-details""]/div[1]/div[3]/div/section[1]/p"
+position,"//*[@id=""job_title""]"
+type,
+description,"//*[@id=""job_description""]"

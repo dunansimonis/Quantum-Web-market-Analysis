@@ -1,0 +1,7 @@
+label,xpath
+title,/html/body/div[2]/div[2]/div[1]/div[1]/div[2]/h2
+location,/html/body/div[2]/div[2]/div[1]/div[1]/div[2]/span
+company,Bamboo
+position,/html/body/div[2]/div[2]/div[1]/div[1]/div[2]/h2
+type,
+description,/html/body/div[2]/div[2]/div[2]/div/div[1]/div[1]/div/div

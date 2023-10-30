@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""job-page""]/div[1]/h1"
+location,"//*[@id=""job-page""]/div[2]/p[1]"
+company,Ionq
+position,"//*[@id=""job-page""]/div[1]/h1"
+type,"//*[@id=""job-page""]/div[2]/p[3]"
+description,"//*[@id=""job-page""]/div[3]"

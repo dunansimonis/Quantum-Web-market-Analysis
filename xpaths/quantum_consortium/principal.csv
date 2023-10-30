@@ -1,0 +1,6 @@
+label,xpath
+organization,/html/body/div[3]/div[2]/div/div[2]/div/div/div[1]/div/table/tbody/tr[*]/td[1]
+position,/html/body/div[3]/div[2]/div/div[2]/div/div/div[1]/div/table/tbody/tr[*]/td[2]
+link,/html/body/div[3]/div[2]/div/div[2]/div/div/div[1]/div/table/tbody/tr[*]/td[3]/a
+location,/html/body/div[3]/div[2]/div/div[2]/div/div/div[1]/div/table/tbody/tr[*]/td[4]
+date_added,/html/body/div[3]/div[2]/div/div[2]/div/div/div[1]/div/table/tbody/tr[*]/td[5]

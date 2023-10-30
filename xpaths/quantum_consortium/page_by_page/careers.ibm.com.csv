@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""post-116""]/div/div[2]/div/div[1]/div/div[1]"
+location,"//*[@id=""post-116""]/div/div[2]/div/div[1]/div/div[2]/div[5]/ul/li/ul/li[1]"
+company,"//*[@id=""post-116""]/div/div[2]/div/div[1]/div/div[2]/div[5]/ul/li/ul/li[9]"
+position,"//*[@id=""post-116""]/div/div[2]/div/div[1]/div/div[1]"
+type,"//*[@id=""post-116""]/div/div[2]/div/div[1]/div/div[2]/div[5]/ul/li/ul/li[7]"
+description,"//*[@id=""post-116""]/div/div[2]/div/div[1]/div/div[4]/div"

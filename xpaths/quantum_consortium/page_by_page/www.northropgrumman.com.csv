@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""main""]/h1"
+location,"//*[@id=""main""]/div/div[1]/ul/li[2]"
+company,Northrop_Grumman
+position,"//*[@id=""main""]/h1"
+type,
+description,"//*[@id=""main""]/div/div[1]/div[1]"

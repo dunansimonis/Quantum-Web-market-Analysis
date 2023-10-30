@@ -1,0 +1,7 @@
+label,xpath
+title,/html/body/div[2]/h1
+location,/html/body/div[2]/div[2]/div
+company,Qcware
+position,/html/body/div[2]/h1
+type,
+description,/html/body/div[3]/div

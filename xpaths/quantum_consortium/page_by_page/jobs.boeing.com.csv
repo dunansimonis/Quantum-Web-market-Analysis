@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""content""]/div/div/section/div[1]/div[1]/h1"
+location,"//*[@id=""content""]/div/div/section/div[1]/div[1]/h1"
+company,Boeing
+position,
+type,
+description,"//*[@id=""content""]/div/div/section/div[3]/div"

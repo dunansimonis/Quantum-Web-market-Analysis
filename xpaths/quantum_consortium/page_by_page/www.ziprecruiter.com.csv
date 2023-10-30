@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""job_content_skip""]/article/div[1]/div[1]/h1"
+location,"//*[@id=""job_content_skip""]/article/div[1]/div[2]/div[2]"
+company,"//*[@id=""job_content_skip""]/article/div[2]/section/h2"
+position,"//*[@id=""job_content_skip""]/article/div[1]/div[1]/h1"
+type,
+description,"//*[@id=""job_content_skip""]/article/div[2]"

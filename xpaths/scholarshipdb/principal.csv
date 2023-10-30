@@ -1,0 +1,5 @@
+label,xpath
+title,//*[@id="main"]/div[2]/div[2]/div[2]/div[4]/ul/li[*]/div[1]/h4/a
+description,//*[@id="main"]/div[2]/div[2]/div[2]/div[4]/ul/li[*]/div[3]/p
+link,/html/body/div/div[2]/div/div[2]/div[2]/div[2]/div[4]/ul/li[*]/div[1]/h4/a
+banner,/html/body/div/div[2]/div/div[2]/div[2]/div[2]/div[4]/ul/li[*]/div[2]

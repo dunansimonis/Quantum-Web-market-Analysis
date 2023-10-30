@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""8504176561492005""]/div/div/div/div/div[1]/div[2]/h2"
+location,"//*[@id=""8504176561492005""]/div/div/div/div/div[1]/span/span[1]"
+company,"//*[@id=""8504176561492005""]/div/div/div/div/div[1]/div[2]/h3"
+position,"//*[@id=""8504176561492005""]/div/div/div/div/div[1]/div[2]/h2"
+type,"//*[@id=""8504176561492005""]/div/div/div/div/div[1]/span/span[3]"
+description,"//*[@id=""8504176561492005""]/div/div/div/div/div[2]"

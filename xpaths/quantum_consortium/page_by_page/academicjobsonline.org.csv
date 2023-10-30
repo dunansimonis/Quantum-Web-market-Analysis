@@ -1,0 +1,7 @@
+label,xpath
+title,/html/body/h2
+location,/html/body/table[1]/tbody/tr[4]/td[2]
+company,/html/body/table[1]/tbody/tr[1]/td[2]
+position,/html/body/table[1]/tbody/tr[2]/td[2]
+type,/html/body/table[1]/tbody/tr[3]/td[2]
+description,/html/body/table[2]/tbody/tr/td/div/div/div/div/div/div

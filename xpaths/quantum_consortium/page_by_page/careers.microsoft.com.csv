@@ -1,0 +1,8 @@
+label,xpath
+cookies,/html/body/section/div/div/div/div[2]/button[1]
+title,"//*[@id=""content-1""]/div[1]/div/h1"
+location,"//*[@id=""content-1""]/div[1]/div/div/span"
+company,Microsoft
+position,"//*[@id=""content-1""]/div[1]/div/h1"
+type,"//*[@id=""content-1""]/div[3]/div/ul/li[6]/span[2]"
+description,"//*[@id=""content-1""]/div[4]"

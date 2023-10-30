@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""jump-content""]/div[1]/div/div[2]/main/div/div/div[1]/div[1]/h1"
+location,"//*[@id=""jump-content""]/div[1]/div/div[2]/main/div/div/div[1]/div[1]/ul[2]/li[2]"
+company,"//*[@id=""jump-content""]/div[1]/div/div[2]/main/div/div/div[1]/div[1]/ul[2]/li[1]"
+position,"//*[@id=""jump-content""]/div[1]/div/div[2]/main/div/div/div[1]/div[1]/h1"
+type,
+description,"//*[@id=""accordion-about""]"

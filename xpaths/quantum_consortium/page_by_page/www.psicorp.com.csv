@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""block-system-main""]/div/div[2]/div/div/h1"
+location,"//*[@id=""block-system-main""]/div/div[3]/div[1]/div"
+company,Psicorp
+position,"//*[@id=""block-system-main""]/div/div[2]/div/div/h1"
+type,"//*[@id=""block-system-main""]/div/div[3]/div[2]/div/div"
+description,"//*[@id=""block-system-main""]/div/div[4]"

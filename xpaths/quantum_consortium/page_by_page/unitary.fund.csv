@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""content""]/section/center/h1"
+location,
+company,Unitary
+position,"//*[@id=""content""]/section/center/h1"
+type,
+description,"//*[@id=""content""]/section"

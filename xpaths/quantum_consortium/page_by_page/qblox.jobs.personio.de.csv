@@ -1,0 +1,7 @@
+label,xpath
+title,/html/body/div[4]/h2
+location,/html/body/div[4]/h6/span/text()
+company,Qblox
+position,/html/body/div[4]/h2
+type,/html/body/div[4]/h6/span/text()
+description,"//*[@id=""job-details""]/div[1]/article[1]/div"

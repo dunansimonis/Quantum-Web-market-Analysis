@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""22.135""]/div[1]/h1/span[1]"
+location,"//*[@id=""22.135""]/div[1]/h3/span[1]"
+company,"//*[@id=""22.135""]/div[1]/h3/span[3]"
+position,"//*[@id=""22.135""]/div[1]/h1/span[1]"
+type,
+description,"//*[@id=""22.135""]/div[2]/div[3]"

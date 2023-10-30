@@ -1,0 +1,4 @@
+label,xpath
+cookies,//*[@id="L2AGLb"]
+search_bar,/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input
+research_button,/html/body/div[1]/div[3]/form/div[1]/div[1]/div[4]/center/input[1]

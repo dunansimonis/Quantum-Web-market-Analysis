@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""job-section""]/div/h2"
+location,
+company,Evolutionq
+position,"//*[@id=""job-section""]/div/h2"
+type,
+description,"//*[@id=""job-section""]/div"

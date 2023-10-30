@@ -1,0 +1,7 @@
+label,xpath
+title,/html/body/div[1]/div[3]/div/div/div/h1
+location,"//*[@id=""top-anchor""]/div[1]/div[1]/div[2]"
+company,Onerh
+position,/html/body/div[1]/div[3]/div/div/div/h1
+type,
+description,"//*[@id=""top-anchor""]"

@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""mainContent""]/div/div/div[1]/div[1]/div/h2"
+location,"//*[@id=""mainContent""]/div/div/div[1]/div[2]/div[1]/div[1]/div"
+company,Nvidia
+position,
+type,"//*[@id=""mainContent""]/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/div/dl/dd"
+description,"//*[@id=""mainContent""]/div/div/div[1]/div[3]/div[2]/div"

@@ -1,0 +1,7 @@
+label,xpath
+title,/html/body/main/div[2]/div/h1
+location,
+company,Qrypt
+position,/html/body/main/div[2]/div/h1
+type,"//*[@id=""resumator-job-employment""]"
+description,"//*[@id=""job-description""]"

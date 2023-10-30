@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""alreadyloggedin""]/h2/div/div"
+location,"//*[@id=""alreadyloggedin""]/div[3]/div/div[1]/p[2]"
+company,Toshiba
+position,"//*[@id=""alreadyloggedin""]/h2/div/div/text()"
+type,"//*[@id=""alreadyloggedin""]/div[3]/div/div[1]/p[6]/text()"
+description,"//*[@id=""Media_Rich_Advert""]/div"

@@ -1,0 +1,7 @@
+label,xpath
+title,/html/body/div[1]/div/div/div/div/h2
+location,/html/body/div[1]/div/div/div/div/div[3]
+company,Boozallen
+position,/html/body/div[1]/div/div/div/div/h2
+type,
+description,"//*[@id=""main""]/div/div/div/div[2]/section/div[1]/article[2]/div"

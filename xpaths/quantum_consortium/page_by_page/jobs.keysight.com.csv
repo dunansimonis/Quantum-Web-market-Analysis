@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""content""]/div/div[2]/div/div[1]/div[2]/div[1]/div/div/div"
+location,"//*[@id=""content""]/div/div[2]/div/div[1]/div[2]/div[3]/div/div/div/span[2]"
+company,Keysight
+position,"//*[@id=""content""]/div/div[2]/div/div[1]/div[2]/div[1]/div/div/div"
+type,
+description,"//*[@id=""content""]/div/div[2]/div/div[1]/div[2]/div[9]/div/div/div/span/span"

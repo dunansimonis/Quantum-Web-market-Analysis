@@ -1,0 +1,7 @@
+label,xpath
+title,"//*[@id=""header""]/h1"
+location,"//*[@id=""header""]/div"
+company,Psiquantum
+position,"//*[@id=""header""]/h1"
+type,
+description,"//*[@id=""content""]"
